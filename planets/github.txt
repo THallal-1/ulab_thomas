@@ -1,0 +1,165 @@
+#Homework 5
+
+# Question 1
+
+# pwd
+
+# Question 2
+
+# ~/music ls. patterns.txt and symmetry.py
+
+# Question 3
+
+# Jupyter notebook? Or some kind of text editor.
+
+# Question 4
+
+# cat 
+
+# Question 5 (Bonus)
+
+# diff symmetry.txt patterns.txt
+
+# Question 6
+
+# mv ~/Music/patterns.txt ~/calculus
+
+# Question 7
+
+# rm triangle.txt
+
+# Question 8
+
+# cd ../math
+
+# Question 9
+
+# git init
+
+# Question 10
+
+# git remote add origin <remote_repository_url>
+
+# Question 11
+
+# cp symmetry.txt /math
+
+# Question 12
+
+# git branch, git is not tracking symmetry.txt because I have not staged the file yet.
+
+# Question 13
+
+# git add summetry.txt; git add .
+
+# Question 14
+
+# Yes, if the file is in the staging area it is being tracked by git. Git reset symmetry.txt
+
+# Question 15
+
+# git commit -m "the message"
+
+# Question 16
+
+# git push origin main, we push to main so others can see our changes on github.
+
+# Question 17
+
+# git branch applied_math
+
+# Question 18
+
+# git checkout applied_math
+
+#Homework 5
+
+# Question 1
+
+# pwd
+
+# Question 2
+
+# ~/music ls. patterns.txt and symmetry.py
+
+# Question 3
+
+# Jupyter notebook? Or some kind of text editor.
+
+# Question 4
+
+# cat 
+
+# Question 5 (Bonus)
+
+# diff symmetry.txt patterns.txt
+
+# Question 6
+
+# mv ~/Music/patterns.txt ~/calculus
+
+# Question 7
+
+# rm triangle.txt
+
+# Question 8
+
+# cd ../math
+
+# Question 9
+
+# git init
+
+# Question 10
+
+# git remote add origin <remote_repository_url>
+
+# Question 11
+
+# cp symmetry.txt /math
+
+# Question 12
+
+# git branch, git is not tracking symmetry.txt because I have not staged the file yet.
+
+# Question 13
+
+# git add summetry.txt; git add .
+
+# Question 14
+
+# Yes, if the file is in the staging area it is being tracked by git. Git reset symmetry.txt
+
+# Question 15
+
+# git commit -m "the message"
+
+# Question 16
+
+# git push origin main, we push to main so others can see our changes on github.
+
+# Question 17
+
+# git branch applied_math
+
+# Question 18
+
+# git checkout applied_math
+
+# Question 19
+
+# git add physics/; git commit -m "added physics/ and mechanics.txt"; git push origin applied_math. If you switch branches before committing
+# you would have uncommitted changes preserved in the directory but untracked by git which could lead to some errors down the line.
+
+# Question 20
+
+# git branch. The branch you are currently on
+
+# Question 21
+
+# git checkout main
+
+# Question 22
+
+# git merge applied_math
+ 
